@@ -1,0 +1,24 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 30px;
+  background-color: #61dafb;
+  font-size: .9em;
+  color: black;
+  border: none;
+  cursor: pointer;
+}

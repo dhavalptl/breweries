@@ -1,0 +1,15 @@
+.brewery {
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 3px 5px;
+    font-size: 1.1em;
+    padding-left: 20px;
+    cursor: pointer;
+}
+
+.country {
+    padding-left: 1em;
+    font-size: .8em;
+}

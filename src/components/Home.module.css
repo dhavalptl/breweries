@@ -1,0 +1,10 @@
+.home {
+    text-align: left;
+    padding: 20px 30px;
+}
+
+.list {
+    padding: 10px;
+    margin: 0;
+    list-style-type: none;
+}
